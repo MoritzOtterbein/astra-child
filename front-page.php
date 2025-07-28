@@ -4,10 +4,12 @@
 
   <!-- 🟣 Hero Section -->
   <section class="hero">
-    <h1>Willkommen bei unserer Agentur</h1>
-    <p>Wir bieten kreative Lösungen für Webdesign, Entwicklung und digitale Strategie.</p>
-    <a href="/projects" class="button">Unsere Projekte ansehen</a>
-  </section>
+    <div class="hero-content">
+        <h1>Willkommen bei unserer Agentur</h1>
+        <p>Wir bieten kreative Lösungen für Webdesign, Entwicklung und digitale Strategie.</p>
+        <a href="#projects" class="button">Unsere Projekte ansehen</a>
+    </div>
+</section>
 
   <!-- 🟢 Leistungen Section -->
   <section class="services">
